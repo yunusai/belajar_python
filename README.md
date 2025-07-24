@@ -1,1 +1,1 @@
-# belajar_python
+# Belajar Python dan Scripting
